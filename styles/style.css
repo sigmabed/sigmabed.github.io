@@ -4,7 +4,7 @@
 
 /* Start Body */
 body {
-	background-color: #e0c0a8;
+	background-color: #e6e6e6;
 	color :black;
 	font-family: Roboto, Helvetica, Arial;
 	font-size:16px;
@@ -19,7 +19,7 @@ body {
 	background-color: blue white;
 }
 .bg-red{
-	background-color: pink;
+	background-color: #b3b3b3;
 }
 /* End Debug */
 
@@ -173,7 +173,7 @@ h6 {
 
 /* Start Box */
 .box-heading {
-	background-color: pink;
+	background-color: #b3b3b3;
 	border: 1px solid #d1d5da;
 	border-radius: 3px 3px 0 0;
 	margin: 0;
@@ -239,7 +239,7 @@ input[type="submit"] {
 
 /* Start Menu Sekunder */
 .menu-sekunder {
-	background-color: pink;
+	background-color: #b3b3b3;
 	border-bottom: 1px solid #eaecef;
 	border-top: 1px solid #eaecef;
 	overflow: auto;
